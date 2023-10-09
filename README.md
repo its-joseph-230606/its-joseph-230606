@@ -7,7 +7,6 @@
 - 💬 Ask me about Collaboration
 - 📫 How to reach me: josephnjoseph43@gmail.com
 - 😄 Pronouns: Unni
-- 🇮🇳 Indian
 - 🌎 Language : Malayalam and English
 - ⚡ Fun fact: I am a computer programmer with interest in physics and space
 
