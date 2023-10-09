@@ -9,8 +9,7 @@
 - 😄 Pronouns: Unni
 - 🌎 Language : Malayalam and English
 - ⚡ Fun fact: I am a computer programmer with interest in physics and space
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-joseph-230606)](https://github.com/its-joseph-230606/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-joseph-230606)
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-joseph-230606&show_icons=true&theme=transparent)
 
 <!--
