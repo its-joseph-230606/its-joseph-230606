@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with java
 - 💬 Ask me about Collaboration
-- 📫 How to reach me: 
+- 📫 How to reach me: josephnjoseph43@gmail.com
 - 😄 Pronouns: Unni
 - ⚡ Fun fact: I am a computer programmer with interest in physics and space
 
