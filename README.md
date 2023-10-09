@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning C++ and Python
