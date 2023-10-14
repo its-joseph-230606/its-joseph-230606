@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-joseph-230606&label=Profile%20views&color=0e75b6&style=flat" alt="its-joseph-230606" /> </p>
 Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer who loves crafting code like a piece of art 🐍💻. Since my birth on June 23, 2006, I've been on a journey to unlock the endless possibilities of programming. 🌟
 
 I find joy in solving complex problems, designing efficient algorithms, and creating software that makes a difference. 🤖💡 My love for coding is matched only by my commitment to quality and attention to detail.
