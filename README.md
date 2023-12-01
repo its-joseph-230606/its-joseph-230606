@@ -1,15 +1,48 @@
-## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-joseph-230606&label=Profile%20views&color=0e75b6&style=flat" alt="its-joseph-230606" /> </p>
 
-- 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning C++ and Python
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with java
-- 💬 Ask me about Collaboration
-- 📫 How to reach me: josephnjoseph43@gmail.com
-- 😄 Pronouns: Unni
-- 🌎 Language : Malayalam and English
-- ⚡ Fun fact: I am a computer programmer with interest in physics and space.
+# Joseph's Coding Journey 💻
+
+## About Me
+Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer born on June 23, 2006. My love for coding knows no bounds, and I thrive on turning ideas into elegant solutions.
+
+## Skills 🚀
+- **Languages:** Python,
+- **Frameworks:** Django, Flask,
+- **Tools:** Git, VS Code,
+
+## Projects 🛠️
+1. **Awesome Project 1**
+   - Brief description
+   - Technologies used
+   - Link to GitHub repo
+
+2. **Cool Project 2**
+   - Brief description
+   - Technologies used
+   - Link to GitHub repo
+
+## Education 📚
+- [TVJMHSS], Graduation Year [2022]
+
+## Experience 💼
+- [Company/Organization Name], Role, Duration
+  - Achievements and responsibilities
+
+## Achievements 🏆
+- [Any coding competition or awards]
+
+## Interests 🌟
+- Exploring new Python libraries
+- Solving algorithmic challenges
+- Collaborating on open-source projects
+
+## Let's Connect! 🌐
+- GitHub: [Your GitHub Profile Link]
+- LinkedIn: [Your LinkedIn Profile Link]
+- Email: [Your Email Address]
+
+Feel free to reach out! Let's code together and make the digital world awesome! 💖
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-joseph-230606)
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-joseph-230606&show_icons=true&theme=transparent)
