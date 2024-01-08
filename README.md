@@ -15,24 +15,18 @@ Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer born on Ju
 
 ## Projects 🛠️
 1. **Awesome Project 1**
-   - Brief description
-   - Technologies used
-   - Link to GitHub repo
+   -Molescroll
+   -IP tracker
 
-2. **Cool Project 2**
-   - Brief description
-   - Technologies used
-   - Link to GitHub repo
+3. **Cool Project 2**
+   -Molescroll
+   -IP tracker
 
 ## Education 📚
 - [TVJMHSS], Graduation Year [2022]
 
 ## Experience 💼
-- [Company/Organization Name], Role, Duration
-  - Achievements and responsibilities
-
-## Achievements 🏆
-- [Any coding competition or awards]
+ - 3 year Python Experience
 
 ## Interests 🌟
 - Exploring new Python libraries
@@ -40,14 +34,14 @@ Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer born on Ju
 - Collaborating on open-source projects
 
 ## Let's Connect! 🌐
-- GitHub: [Your GitHub Profile Link]
-- LinkedIn: [Your LinkedIn Profile Link]
-- Email: [Your Email Address]
+- GitHub: https://github.com/its-joseph-230606
+
+- Email: josephnjoseph43@gmail.com
 
 Feel free to reach out! Let's code together and make the digital world awesome! 💖
 
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-joseph-230606&show_icons=true&theme=transparent)
+
 
 <!--
 **its-joseph-230606/its-joseph-230606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
