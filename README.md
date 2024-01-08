@@ -10,7 +10,7 @@ Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer born on Ju
 - **Frameworks:** Django, Flask,
 - **Tools:** Git, VS Code,
 
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-joseph-230606)
+
 
 
 ## Projects 🛠️
