@@ -1,51 +1,47 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-joseph-230606&label=Profile%20views&color=0e75b6&style=flat" alt="its-joseph-230606" /> </p>
+<p align="center">
+  <strong>Joseph Joseph</strong>
+</p>
 
-# Joseph's Coding Journey 💻
+📧 [josephnjoseph43@gmail.com](mailto:josephnjoseph43@gmail.com) | 📱 (123) 456-7890
 
-## About Me
-Hey there! 👋 I'm Joseph, a passionate 17-year-old Python developer born on June 23, 2006. My love for coding knows no bounds, and I thrive on turning ideas into elegant solutions.
+---
 
-## Skills 🚀
-- **Languages:** Python,
-- **Frameworks:** Django, Flask,
-- **Tools:** Git, VS Code,
+## Skills
 
+| Language/Tool | Frameworks/Libraries |
+|---------------|----------------------|
+| Python        | KivyMD, CustomTkinter, PyQt6, Django, Flask, FastAPI |
+| JavaScript    | Expo, React Native   |
 
+---
 
+## Summary
 
-## Projects 🛠️
-1. **Awesome Project 1**
-   -Molescroll
-   -IP tracker
+Enthusiastic software developer with expertise in Python and JavaScript technologies. Skilled in frameworks such as KivyMD, PyQt6, Flask, Django, and FastAPI. Experienced in developing cross-platform mobile applications using Expo and React Native. Passionate about leveraging technology to solve real-world problems.
 
-3. **Cool Project 2**
-   -Molescroll
-   -IP tracker
+---
 
-## Education 📚
-- [TVJMHSS], Graduation Year [2022]
+## Experience
 
-## Experience 💼
- - 3 year Python Experience
+### PyTracker Project (Flask)
 
-## Interests 🌟
-- Exploring new Python libraries
-- Solving algorithmic challenges
-- Collaborating on open-source projects
+- Contributed to the development of PyTracker, a Flask-based project aimed at tracking and managing various tasks and projects.
+- Implemented features, fixed bugs, and optimized performance to enhance user experience and functionality.
 
-## Let's Connect! 🌐
-- GitHub: https://github.com/its-joseph-230606
+### Molescroll Blog Project (Solo Project - Django)
 
-- Email: josephnjoseph43@gmail.com
+- Developed Molescroll, a solo Django-based blog project focusing on scroll-based content delivery.
+- Designed, developed, and deployed all features independently, ensuring a seamless user experience.
 
-Feel free to reach out! Let's code together and make the digital world awesome! 💖
+### Thenga Script Project (Contributor - Custom JavaScript for Web Programming in Malayalam)
 
+- Contributed to the development of Thenga Script, a custom JavaScript tool designed for web programming in Malayalam.
+- Collaborated with the team to implement features and improve functionality to enable web development tasks in the Malayalam language.
 
+---
 
+## Education
 
-<!--
-**its-joseph-230606/its-joseph-230606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PCMB (Physics, Chemistry, Mathematics, Biology) - 12th Class
 
-Here are some ideas to get you started:
-
--->
+**TV Joseph Memorial Higher Secondary School** | Pindimana, Kerala | Graduated: 2024
