@@ -1,10 +1,8 @@
-<p align="center">
+<h1 align="center">
   <strong>Joseph Joseph</strong>
-</p>
+</h1>
+<hr>
 
-📧 [josephnjoseph43@gmail.com](mailto:josephnjoseph43@gmail.com) | 📱 (123) 456-7890
-
----
 
 ## Skills
 
